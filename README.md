@@ -1,4 +1,4 @@
 
 # Git et GitHub
 
-Bonjour Git ! 
+Git et GitHib sont deux outils importants pour un team IT.
